@@ -14,6 +14,7 @@
      
 
  ![whatsapp-995](https://github.com/JulioL2001/Bertoti/assets/101107794/55cbc5ca-e487-4e43-bfd6-0e9f0c860e45)
+
   <h3>Descrição de imagem:<h3>
   <h4>É possivel verificar a situação de como está a mensagem.<h4>
  
@@ -84,6 +85,7 @@
    <h3>Exemplo Negativo:<h3>
      
   ![Heuristicas](https://github.com/JulioL2001/Bertoti/assets/101107794/c1933f27-be23-49bc-bccc-0b25f9d90ecb)
+
   ![Heuristicas](https://github.com/JulioL2001/Bertoti/assets/101107794/a34c074a-61a9-49a4-b7d6-70e31303bb03)     
 
   <h3>Descrição de imagem:<h3>
@@ -126,6 +128,7 @@
   <h4>É possivel distinguir quais abas, playlists e quais canais está inscrito.<h4> 
     
    <h3>Exemplo Negativo:<h3>
+
     ![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/ce7d1a73-20ae-4641-9efb-f9802fc5f050)
 
   
@@ -150,6 +153,7 @@
   <h4>Fica claro qual é o atalho para entregar maior eficiência para os usuários que utilizam o sistema.<h4> 
     
    <h3>Exemplo Negativo:<h3>
+
     ![image](https://github.com/JulioL2001/Bertoti/assets/101107794/fb4733d3-a7e0-46a2-8ddf-a907d6a0a188)
 
   
@@ -179,6 +183,52 @@
 
   <h3>Descrição de imagem:<h3>
   <h4>Tela muito poluida de anuncios.<h4>
+
+<h3>9. Recuperação diante de erros</h3>
+  <h3>O que é:<h3>
+  <h4>O usuário deve conseguir reconhecer, diagnosticar e se recuperar de erros. Para isso, os erros devem ser sempre sinalizados de forma clara, com mensagens mostradas em linguagem simples (sem códigos), indicando precisamente o problema ocorrido e sugerindo, de forma construtiva, uma alternativa ou solução.<h4>
+  
+  <h3>Exemplo Positivo:<h3>
+     
+![image](https://github.com/JulioL2001/Bertoti/assets/101107794/412936f4-d9a2-4eb6-8bbf-ab52080cc912)
+
+
+ 
+  <h3>Descrição de imagem:<h3>
+  <h4>É visivel o que está faltando para melhorar a utilização do sistema<h4> 
+    
+   <h3>Exemplo Negativo:<h3>
+
+![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/f323b7f2-e4e1-47f4-9057-06cb75f3d4e1)
+
+  
+    
+
+  <h3>Descrição de imagem:<h3>
+  <h4>Porém aqui está sinalizando porém não de forma clara.<h4>
+
+<h3>10. Ajuda e documentação</h3>
+  <h3>O que é:<h3>
+  <h4>Sempre que possível, ofereça ajuda ao usuário sem que ele precise solicitar. Ou seja, é necessário identificar em quais etapas ele poderá encontrar dificuldades para, nessas, inserir explicações sobre as ações.<h4>
+  
+  <h3>Exemplo Positivo:<h3>
+     
+
+![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/5d7f3179-bd01-446f-bd50-f74d5d14b26e)
+
+ 
+  <h3>Descrição de imagem:<h3>
+  <h4>DOcumentação clara no Saiba Mais<h4> 
+    
+   <h3>Exemplo Negativo:<h3>
+
+![image](https://github.com/JulioL2001/Bertoti/assets/101107794/f4e3c2ef-f1e3-47b6-a340-8f005d45f1f3)
+
+  
+    
+
+  <h3>Descrição de imagem:<h3>
+  <h4>Todavia neste exemplo não é especifico<h4>
 
 
 
