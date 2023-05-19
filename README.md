@@ -111,13 +111,13 @@
     
 
   <h3>Descrição de imagem:<h3>
-  <h4>Erro que não foi previnido ao programar<h4
+  <h4>Erro que não foi previnido ao programar<h4>
 
 
                                                  
 <h3>6.Reconhecimento ao invés de memória</h3>
   <h3>O que é:<h3>
-  <h4>Para minimizar a carga cognitiva do usuário, é preciso tornar objetos, ações e opções visíveis e identificáveis, para que possam ser reconhecidos (e não lembrados ‘de cabeça’).<h4>
+  <h4>Para minimizar a carga cognitiva do usuário, é preciso tornar objetos, ações e opções visíveis e identificáveis, para que possa ser reconhecidos (e não lembrados ‘de cabeça’).<h4>
   
   <h3>Exemplo Positivo:<h3>
      
@@ -127,11 +127,10 @@
   <h3>Descrição de imagem:<h3>
   <h4>É possivel distinguir quais abas, playlists e quais canais está inscrito.<h4> 
     
-   <h3>Exemplo Negativo:<h3>
 
-    ![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/ce7d1a73-20ae-4641-9efb-f9802fc5f050)
-
-  
+ <h3>Exemplo Negativo:<h3>
+     
+![image](https://github.com/JulioL2001/Bertoti/assets/101107794/37fb82c0-fd0d-46fb-9711-621ee196aa67)
     
 
   <h3>Descrição de imagem:<h3>
@@ -152,9 +151,9 @@
   <h3>Descrição de imagem:<h3>
   <h4>Fica claro qual é o atalho para entregar maior eficiência para os usuários que utilizam o sistema.<h4> 
     
-   <h3>Exemplo Negativo:<h3>
-
-    ![image](https://github.com/JulioL2001/Bertoti/assets/101107794/fb4733d3-a7e0-46a2-8ddf-a907d6a0a188)
+<h3>Exemplo Negativo:<h3>
+     
+![image](https://github.com/JulioL2001/Bertoti/assets/101107794/91ba9356-5435-48ea-b928-70f35d3bb0dc)
 
   
     
@@ -199,36 +198,36 @@
     
    <h3>Exemplo Negativo:<h3>
 
-![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/f323b7f2-e4e1-47f4-9057-06cb75f3d4e1)
+  ![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/f323b7f2-e4e1-47f4-9057-06cb75f3d4e1)
 
   
     
 
-  <h3>Descrição de imagem:<h3>
-  <h4>Porém aqui está sinalizando porém não de forma clara.<h4>
+<h3>Descrição de imagem:<h3>
+<h4>Porém aqui está sinalizando porém não de forma clara.<h4>
 
 <h3>10. Ajuda e documentação</h3>
-  <h3>O que é:<h3>
-  <h4>Sempre que possível, ofereça ajuda ao usuário sem que ele precise solicitar. Ou seja, é necessário identificar em quais etapas ele poderá encontrar dificuldades para, nessas, inserir explicações sobre as ações.<h4>
+<h3>O que é:<h3>
+<h4>Sempre que possível, ofereça ajuda ao usuário sem que ele precise solicitar. Ou seja, é necessário identificar em quais etapas ele poderá encontrar dificuldades para, nessas, inserir explicações sobre as ações.<h4>
   
-  <h3>Exemplo Positivo:<h3>
+<h3>Exemplo Positivo:<h3>
      
 
-![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/5d7f3179-bd01-446f-bd50-f74d5d14b26e)
+  ![unnamed](https://github.com/JulioL2001/Bertoti/assets/101107794/5d7f3179-bd01-446f-bd50-f74d5d14b26e)
 
  
-  <h3>Descrição de imagem:<h3>
-  <h4>DOcumentação clara no Saiba Mais<h4> 
+<h3>Descrição de imagem:<h3>
+<h4>Documentação clara no Saiba Mais<h4> 
     
-   <h3>Exemplo Negativo:<h3>
+<h3>Exemplo Negativo:<h3>
 
-![image](https://github.com/JulioL2001/Bertoti/assets/101107794/f4e3c2ef-f1e3-47b6-a340-8f005d45f1f3)
+  ![image](https://github.com/JulioL2001/Bertoti/assets/101107794/f4e3c2ef-f1e3-47b6-a340-8f005d45f1f3)
 
   
     
 
-  <h3>Descrição de imagem:<h3>
-  <h4>Todavia neste exemplo não é especifico<h4>
+<h3>Descrição de imagem:<h3>
+<h4>Todavia neste exemplo não é especifico<h4>
 
 
 
