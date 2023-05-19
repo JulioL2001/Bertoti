@@ -171,6 +171,7 @@
   <h4>O sistema está claro e limpo.<h4> 
     
    <h3>Exemplo Negativo:<h3>
+
   ![image](https://github.com/JulioL2001/Bertoti/assets/101107794/cb76849b-3b1e-47b6-9bb6-86634f9cdfbb)
 
   
